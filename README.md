@@ -1,4 +1,4 @@
-# -sabith-todo-
+# sabith-todo
 <h1 align="center">Hi 👋, I'm Sabith</h1>
 
 <h3 align="center">💻 Web Developer | 🤖 Aspiring AI Engineer</h3>
