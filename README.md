@@ -52,7 +52,7 @@
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,java,html,css" alt="Programming languages"/>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Programming languages"/>
 </p>
 
 ### Web Development
@@ -62,7 +62,7 @@
 
 ### Database & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,linux,docker" alt="Tools and technologies"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,linux," alt="Tools and technologies"/>
 </p>
 
 **Currently exploring:** Machine Learning, Generative AI, Large Language Models (LLMs), AI Agents, and intelligent automation.
