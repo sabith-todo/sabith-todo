@@ -63,7 +63,7 @@ I'm a B.Tech Information Technology student at **Sree Sakthi Engineering College
   <img src="https://skillicons.dev/icons?i=mongodb,git,github,linux" alt="MongoDB, Git, GitHub and Linux"/>
 </p>
 
-**Currently exploring:** Machine Learning, Generative AI, Large Language Models, AI Agents, and AI automation.
+**Currently exploring:** Machine Learning,Generative AI, Large Language Models, AI Agents, and AI automation.
 
 ## 🚀 Selected Projects
 
