@@ -34,7 +34,7 @@ I'm a B.Tech Information Technology student at **Sree Sakthi Engineering College
 ## 🎯 Areas of Interest
 
 | Area | Focus |
-|----|---|
+|----|----|
 | Artificial Intelligence | Intelligent applications and AI-powered solutions |
 | Machine Learning | Predictive models, algorithms, and data-driven systems |
 | Generative AI | LLMs, prompting, and AI application development |
