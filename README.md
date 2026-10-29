@@ -17,6 +17,7 @@ Building practical applications and exploring how AI can solve real-world proble
 
 </div>
 ---
+
 ## 👨‍💻 About Me
 
 I'm a B.Tech Information Technology student at **Sree Sakthi Engineering College, Coimbatore**, interested in Artificial Intelligence and intelligent software development.
@@ -33,7 +34,7 @@ I'm a B.Tech Information Technology student at **Sree Sakthi Engineering College
 ## 🎯 Areas of Interest
 
 | Area | Focus |
-|---|---|
+|----|---|
 | Artificial Intelligence | Intelligent applications and AI-powered solutions |
 | Machine Learning | Predictive models, algorithms, and data-driven systems |
 | Generative AI | LLMs, prompting, and AI application development |
