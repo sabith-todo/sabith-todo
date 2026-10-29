@@ -43,7 +43,7 @@ I'm a B.Tech Information Technology student at **Sree Sakthi Engineering College
 | AI Agents | Tool use, task execution, and workflow automation |
 | Software Development | Building reliable applications with practical interfaces and backends |
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 **Programming Languages**
 
