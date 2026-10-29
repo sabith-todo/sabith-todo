@@ -93,7 +93,7 @@
 ## 🎯 My Roadmap
 
 - [ ] Strengthen Python programming and problem-solving.
-- [ ] Learn core Machine Learning concepts and algorithms.
+- [ ] Learn core Machine Learning concepts and algorithms..
 - [ ] Build practical ML projects using real-world datasets.
 - [ ] Explore Generative AI, LLMs, and retrieval-augmented generation (RAG).
 - [ ] Build AI agents with tools, memory, and workflow automation.
