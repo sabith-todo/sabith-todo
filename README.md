@@ -68,7 +68,7 @@ I'm a B.Tech Information Technology student at **Sree Sakthi Engineering College
 ## 🚀 Selected Projects
 
 ### 🌱 IoT-Based Smart Farming Monitor
-A smart farming application exploring environmental monitoring, weather information, and irrigation-related features.
+A smart farming application exploring environmental monitoring, weather information,and irrigation-related features.
 
 [View Repository](https://github.com/sabith-todo/IOT-Based-smart-farming-monitor)
 
