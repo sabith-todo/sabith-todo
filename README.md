@@ -87,7 +87,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sabith-todo&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=sabith-todo&theme=tokyonight&hide_border=true&cache_seconds=300" alt="GitHub contribution streak"/>
 </p>
 
 ## 🎯 My Roadmap
