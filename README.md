@@ -10,8 +10,9 @@ Building practical applications and exploring how AI can solve real-world proble
   <img src="https://img.shields.io/badge/GitHub-sabith--todo-181717?style=flat-square&logo=github" alt="GitHub"/>
 </a>
 <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-0EA5E9?style=flat-square&logo=openai&logoColor=white" alt="AI Focus"/>
-<img src="https://img.shields.io/badge/Status-Always%20Learning-16A34A?style=flat-square" alt="Always Learning"/>
-
+```html
+<img src="https://img.shields.io/badge/dynamic/json?url=https://github-contributions-api.jogruber.de/v4/sabith-todo?y=last&query=total&label=Total%20Contributions&color=0EA5E9&logo=github&style=flat-square" alt="Total GitHub contributions"/>
+```
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Exploring+Artificial+Intelligence;Learning+Machine+Learning;Building+AI-Powered+Applications;Exploring+Generative+AI+%26+LLMs;Developing+AI+Agents;Web+Developer+%7C+AI+Enthusiast" alt="Typing animation"/>
