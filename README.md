@@ -13,7 +13,7 @@ Building practical applications and exploring how AI can solve real-world proble
   <img src="https://img.shields.io/badge/Status-Always%20Learning-16A34A?style=flat-square" alt="Always Learning"/>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Exploring+Artificial+Intelligence;Learning+Machine+Learning;Building+AI-Powered+Applications;Exploring+Generative+AI+%26+AI+Agents" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Exploring+Artificial+Intelligence;Learning+Machine+Learning;Building+AI-Powered+Applications;Exploring+Generative+AI+%26+AI+Agents + Website Developer" alt="Typing animation"/>
 
 </div>
 
