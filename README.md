@@ -116,7 +116,6 @@ An AI-focused project exploring technology-driven solutions.
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=sabith-todo&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub contribution streak"/>
-
 </div>
 
 ## 🌱 Current Learning Goals
