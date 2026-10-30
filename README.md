@@ -105,6 +105,8 @@ An AI-focused project exploring technology-driven solutions.
 [View Repository](https://github.com/sabith-todo/Safe_Guard-AI)
 
 > Explore my [GitHub repositories](https://github.com/sabith-todo?tab=repositories) for more projects and development work.
+
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -115,7 +117,12 @@ An AI-focused project exploring technology-driven solutions.
 <!-- Most Used Languages -->
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sabith-todo&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
 
-<br/>
+<br/><br/>
+
+<!-- Total GitHub Contributions -->
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fsabith-todo%3Fy%3Dlast&query=total&label=Total%20Contributions&color=0EA5E9&logo=github&style=flat-square" alt="Total GitHub Contributions"/>
+
+<br/><br/>
 
 <!-- GitHub Contribution Streak -->
 <img src="https://streak-stats.demolab.com?user=sabith-todo&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&starting_year=2026" alt="GitHub contribution streak"/>
