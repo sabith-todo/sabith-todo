@@ -101,20 +101,15 @@ An AI-focused project exploring technology-driven solutions.
 <div align="center">
 
 <!-- GitHub Profile Stats -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sabith-todo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" alt="GitHub statistics"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=sabith-todo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
 <!-- Most Used Languages -->
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabith-todo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Most used programming languages"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sabith-todo&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
 
 <br/>
 
 <!-- GitHub Contribution Streak -->
 <img src="https://streak-stats.demolab.com?user=sabith-todo&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub contribution streak"/>
-
-<br/>
-
-<!-- Contribution Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sabith-todo&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
 
 </div>
 
