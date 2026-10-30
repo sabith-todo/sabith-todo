@@ -1,6 +1,6 @@
  <div align="center">
 
-# Hi, I'm Sabith 👋
+# Hi, I'm Sabith  👋
 
 ### Aspiring AI Engineer · AI Agent Developer · IT Student
 
