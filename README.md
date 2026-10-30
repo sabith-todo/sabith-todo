@@ -117,8 +117,8 @@ An AI-focused project exploring technology-driven solutions.
 
 <br/><br/>
 
-<!-- GitHub Streak - India Time -->
-<img src="https://streak-stats.demolab.com/?user=sabith-todo&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub contribution streak"/>
+<!-- GitHub Contribution Activity -->
+<img src="https://ghchart.rshah.org/38BDF8/sabith-todo" alt="GitHub contribution activity graph"/>
 
 </div>
 
