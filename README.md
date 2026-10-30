@@ -109,15 +109,12 @@ An AI-focused project exploring technology-driven solutions.
 
 <div align="center">
 
-<!-- GitHub Profile Stats -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sabith-todo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" alt="GitHub statistics"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=sabith-todo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-<!-- Most Used Languages -->
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabith-todo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Most used programming languages"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sabith-todo&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
 
-<br/>
+<br/><br/>
 
-<!-- GitHub Contribution Streak -->
 <img src="https://streak-stats.demolab.com?user=sabith-todo&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub contribution streak"/>
 
 </div>
@@ -139,4 +136,11 @@ I'm interested in learning, building, and collaborating on meaningful software a
 <div align="center">
 
 <a href="https://github.com/sabith-todo">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github" alt="Explore my GitHub"/>
+</a>
+
+<br/><br/>
+
+**Learn continuously. Build thoughtfully. Innovate with AI.** 🚀
+
+</div>
