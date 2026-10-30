@@ -103,7 +103,7 @@ An AI-focused project exploring technology-driven solutions.
 <!-- GitHub Profile Stats -->
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=sabith-todo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-<!-- Most Used Languages -->
+<!-- Most Used Languages  -->
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sabith-todo&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
 
 <br/>
