@@ -52,28 +52,29 @@ B.Tech Information Technology student at **Sree Sakthi Engineering College, Coim
 
 ➡️ [See all repositories](https://github.com/sabith-todo?tab=repositories)
 
-## GitHub Activity (auto-updating)
+## GitHub Activity
 
 <div align="center">
 
-<!-- Streak: refreshes automatically, uses India time -->
 <a href="https://github.com/sabith-todo">
   <img src="https://streak-stats.demolab.com/?user=sabith-todo&theme=tokyonight&hide_border=true&border_radius=10&timezone=Asia%2FKolkata&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak"/>
 </a>
 
+<br/><br/>
+
+<img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
+<img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages"/>
+
 <br/>
 
-<!-- Stats + languages -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sabith-todo&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&rank_icon=github" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabith-todo&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top languages"/>
+<img height="180" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language"/>
+<img height="180" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time"/>
 
 <br/><br/>
 
-<!-- Contribution snake: regenerated every day by GitHub Actions -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sabith-todo/sabith-todo/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sabith-todo/sabith-todo/output/github-snake.svg"/>
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sabith-todo/sabith-todo/output/github-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg"/>
+  <img alt="Contribution snake" src="./assets/github-snake.svg"/>
 </picture>
 
 </div>
@@ -95,3 +96,46 @@ Open to collaborating on AI, automation and web projects.
 **Learn continuously. Build thoughtfully. Innovate with AI.** 🚀
 
 </div>
+
+name: Update Profile
+
+on:
+  schedule:
+    - cron: "30 18 * * *"   # daily at 12:00 AM IST
+  workflow_dispatch:         # manual run button
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Create assets folder
+        run: mkdir -p assets
+
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/github-snake.svg
+            assets/github-snake-dark.svg?palette=github-dark
+
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release/v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit generated files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update profile stats [skip ci]"
+          file_pattern: "assets/*.svg profile-summary-card-output/**/*.svg"
