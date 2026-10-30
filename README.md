@@ -109,16 +109,13 @@ An AI-focused project exploring technology-driven solutions.
 
 <div align="center">
 
-<!-- GitHub Stats -->
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=sabith-todo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-<!-- Top Languages -->
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sabith-todo&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
 
 <br/><br/>
 
-<!-- GitHub Contribution Activity -->
-<img src="https://ghchart.rshah.org/38BDF8/sabith-todo" alt="GitHub contribution activity graph"/>
+<img src="https://streak-stats.demolab.com?user=sabith-todo&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub contribution streak"/>
 
 </div>
 
