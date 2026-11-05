@@ -33,7 +33,7 @@ I'm a B.Tech Information Technology student at **Sree Sakthi Engineering College
  
 > My goal is to turn ideas into useful, intelligent applications through continuous learning and hands-on development.
 
-## 🎯 Areas of Interest
+## 🎯 Areas of Interest 
 
 | Area | Focus |
 |---|---|
