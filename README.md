@@ -24,7 +24,7 @@ html
 
 I'm a B.Tech Information Technology student at **Sree Sakthi Engineering College, Coimbatore**, interested in Artificial Intelligence and intelligent software development.
  
-- 🤖 My primary goal is to become an **AI Engineer and AI Agent Developer**.
+- 🤖 My primary goal is to become an **AI Engineer and AI Agent Developer**. 
 - 🧠 Exploring Machine Learning, Generative AI, LLMs, and AI-powered applications.
 - 🐍 Strengthening my Python programming and problem-solving skills.
 - 💻 Applying my web development knowledge to build useful software.
