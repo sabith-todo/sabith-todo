@@ -20,7 +20,7 @@ html
 
 --- 
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me 
 
 I'm a B.Tech Information Technology student at **Sree Sakthi Engineering College, Coimbatore**, interested in Artificial Intelligence and intelligent software development.
  
