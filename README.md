@@ -6,7 +6,7 @@ Building practical applications and exploring how AI can solve real-world proble
  
 <div align="center"> 
  
-<a href="https://github.com/sabith-todo">
+<a href="https://github.com/sabith-todo"> 
   <img src="https://img.shields.io/badge/GitHub-sabith--todo-181717?style=flat-square&logo=github" alt="GitHub"/>
 </a>
 <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-0EA5E9?style=flat-square&logo=openai&logoColor=white" alt="AI Focus"/>
